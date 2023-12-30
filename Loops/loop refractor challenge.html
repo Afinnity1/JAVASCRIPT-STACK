@@ -1,0 +1,78 @@
+<html>
+
+	<head>
+	
+		<title>My javascript</title>
+		
+			<style type = "text/css">
+			
+				.red{
+				
+					width:30px;
+					height:30px;
+					background-color:red;
+					border-radius:50px;
+					float:left;
+					margin-left:3px;
+				}
+				
+				.green{
+				
+					width:30px;
+					height:30px;
+					background-color:green;
+					border-radius:50px;
+					float:left;
+					margin-left:3px;
+				}
+				
+				.blue{
+				
+					width:30px;
+					height:30px;
+					background-color:blue;
+					border-radius:50px;
+					float:left;
+					margin-left:3px;
+				}
+			
+			
+			
+			</style>
+			
+	</head>
+	
+	<body>
+	
+		<h2>Loops: the refractor challenge</h2>
+		
+		<div class = "red"> </div>
+		<div class = "green"> </div>
+		<div class = "blue"> </div>
+		
+		<script type = "text/javascript">
+	// using the for loop to create loops of color balls that change colors each time its reloaded	
+			var html = '';
+			var red;
+			var green;
+			var blue;
+			var rgbColor;
+			
+		
+			for( var i = 0; i <= 10; i += 1) {	
+				red = Math.floor(Math.random() * 256);
+				green = Math.floor(Math.random() * 256);
+				blue = Math.floor(Math.random() * 256);
+				rgbColor = 'rgb(' + red + ',' + green + ',' + blue + ')';
+				html += '<div class = "red" class = "green" class = "blue" style="background-color:' + rgbColor + '"></div>'; 
+				}
+			
+			document.write(html);
+			
+		</script>
+	
+	
+	
+	</body>
+
+</html>
