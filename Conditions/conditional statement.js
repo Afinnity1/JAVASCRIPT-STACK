@@ -1,18 +1,6 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>A programming quiz</h1>
-		
-		
-	
-		<script type = "text/javascript">
+			//A programming quiz on conditional statement
+
 			//code example 1
 			var answer = prompt('what programming language is a Gem?');
 			//adding the toUpperCase() code is used so that even if a user wrote the ans in lower case letters it would automatically be converted to uppercase. 
@@ -52,11 +40,3 @@
 				document.write("<p> you are of age. Welcome!!!! </p>");
 			
 			}
-		
-		</script>
-	
-	
-	
-	</body>
-
-</html>

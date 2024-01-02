@@ -1,20 +1,7 @@
-<html>
 
-	<head>
+		//Javascript Object
 	
-		<title>My javascript</title>
-		
-	
-			
-	</head>
-	
-	<body>
-	
-		<h2>Javascript Object</h2>
-	
-				
-	
-		<script type = "text/javascript">
+
 		//Javascript object provides a structured way to store & access data.
 		//Basic layout of an object '{}'.
 			var person = {
@@ -125,11 +112,4 @@
 			for (var key in person) {
 				console.log(key, ' : ', person[key]);
 			}
-			
-		</script>
 	
-	
-	
-	</body>
-
-</html>

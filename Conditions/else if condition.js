@@ -1,20 +1,7 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>using if else conditions</h1>
+			//using if else conditions
 		
-		
-	
-		<script type = "text/javascript">
-		
-			var loginDetails = prompt("type in your password?");\
+			var loginDetails = prompt("type in your password?");
 		//if loginDetails equals to Afinnity then the condition as been met.
 			if ( loginDetails === "Afinnity") {
 			
@@ -31,10 +18,3 @@
 			}
 		//Note: the else if() condition can be used as many times as possible but it must always be used after the if() condition.	
 		
-		</script>
-	
-	
-	
-	</body>
-
-</html>

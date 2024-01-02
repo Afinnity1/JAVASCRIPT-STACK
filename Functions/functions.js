@@ -1,13 +1,4 @@
-<html>
-	<head>
-		<title>My javascript</title>
-	</head>
-	<body>
-	
-		<h1>Functions</h1>
-	
-		<script type = "text/javascript">
-		
+
 	//Eg 1.
 	
 	// Basic use of function in javascript example.
@@ -125,7 +116,4 @@
 			console.log(alertRandom(100, 200));
 			alert(alertRandom(3, 29));
 			document.write(alertRandom(11, 20));
-			
-		</script>
-	</body>
-</html>
+	

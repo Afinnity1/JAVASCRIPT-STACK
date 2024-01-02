@@ -1,11 +1,6 @@
-<html>
-	<head>
-		<title>My javascript</title>		
-	</head>
-	<body>
-		<h2>Arrays</h2>	
-	
-		<script type = "text/javascript">
+
+			//Arrays Intro
+			
 	//working with arrays. Arrays[] are used for adding/working with multiple values/items. (i.e:like a person adding a lot of items to a shopping cart).
 			var shoppingCart = ['air-force', 'nikes', 'addidas', 'louis vuitton'];
 	//NOTE: the first value in an array is always starting from 0		
@@ -100,7 +95,4 @@
 			console.log(grades[0][1]);
 			console.log(grades[1][2]);
 			console.log(grades[2][3]);		
-		
-		</script>	
-	</body>
-</html>
+	

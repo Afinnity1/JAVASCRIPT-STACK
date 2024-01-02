@@ -1,18 +1,10 @@
-<html>
 
-	<head>
 	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>Random number Generator</h1>
+		//Random number Generator
 		
 		
 	
-		<script type = "text/javascript">
+
 			
 			var usersNumber = prompt('please input a number');
 			//converts a number in the prompt string to an index number
@@ -50,11 +42,4 @@
 					Math.floor(Math.random() * (higher number - lower number + 1)) + 1;
 				
 			*/
-		
-		</script>
 	
-	
-	
-	</body>
-
-</html>

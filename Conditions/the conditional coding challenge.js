@@ -1,18 +1,8 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>the conditional coding challenge</h1>
+		//the conditional coding challenge
 		
 		
 	
-		<script type = "text/javascript">
 	// quiz begins.
 		var correct = 0;
 		var questions = 5;
@@ -82,12 +72,4 @@
 			document.write("<p>" + " you got nothing!!! Please try again " + "</p>");
 		
 		}
-		
-		
-		</script>
 	
-	
-	
-	</body>
-
-</html>

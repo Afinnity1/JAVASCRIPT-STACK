@@ -1,18 +1,4 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>Guess the random number challenge</h1>
-		
-		
-	
-		<script type = "text/javascript">
 		//random number guessing challenge.
 			var randomNumber = Math.floor(Math.random() * 10) + 1;
 		//parseInt function was used to convert the number written in the prompt box to an integer number.
@@ -41,12 +27,3 @@
 				document.write("<p>" + " you guessed it wrong, the random number was " + randomNumber + "</p>");
 			
 			}
-			
-		
-		</script>
-	
-	
-	
-	</body>
-
-</html>

@@ -1,12 +1,6 @@
-<html>
-	<head>
-		<title>My javascript</title>	
-	</head>
-	<body>
-	
-		<h2>Search the store challenge</h2>
-	
-		<script type = "text/javascript">
+
+			//Search the store challenge
+
 		//Searching through a store to check wheter am item is available or not	using useful array methods.
 
 		//Firstly a list of items were placed in an array.
@@ -35,7 +29,5 @@
 					}
 				}
 			}
-		</script>
-	</body>
-</html>	
+		
 	

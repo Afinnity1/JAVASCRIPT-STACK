@@ -1,18 +1,10 @@
-<html>
 
-	<head>
 	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h2>Loops: making the user guess a random number using do...while loop condition </h2>
+		//Loops: making the user guess a random number using do...while loop condition
 		
 	
 	
-		<script type = "text/javascript">
+
 		/*making a user guess a random number and the prompt dialogue pops up repeatedly till he get it right 
 		and the amount of time the user tried is also counted
 		*/
@@ -58,10 +50,4 @@
 					}	
 				}
 			*/
-		</script>
-	
-	
-	
-	</body>
-
-</html>
+		

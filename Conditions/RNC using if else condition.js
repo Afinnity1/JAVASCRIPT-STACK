@@ -1,18 +1,7 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>Random number challenge using else if conditions</h1>
-		
-		
-	
-		<script type = "text/javascript">
+			//Random number challenge using else if conditions
+
+
 		
 			//random number guessing challenge.
 			var randomNumber = Math.floor(Math.random() * 10) + 1;
@@ -76,5 +65,3 @@
 			}
 		
 		
-		</script>
-	

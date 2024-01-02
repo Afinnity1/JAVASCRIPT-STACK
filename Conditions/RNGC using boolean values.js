@@ -1,18 +1,10 @@
-<html>
 
-	<head>
 	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>Random Number guessing challenge using Boolean values true and false</h1>
+		//Random Number guessing challenge using Boolean values true and false
 		
 		
 	
-		<script type = "text/javascript">
+
 		//When the game begins the player hasnt yet guessed anything so we'll say his/her answer is still false.
 			var correctGuess = false;		
 		//random number between 1 and 10.
@@ -35,10 +27,4 @@
 			}
 		//boolean values makes the program more flexible and itll let us respond to multi conditional outcomes.
 		
-		</script>
-	
-	
-	
-	</body>
-
-</html>
+		

@@ -1,12 +1,6 @@
-<html>
-	<head>
-		<title>My javascript</title>	
-	</head>
-	<body>
-	
-		<h2>Two dimensional arrays quiz challenge</h2>
-	
-		<script type = "text/javascript">
+
+			//Two dimensional arrays quiz challenge
+
 	//firstly the two dimensional array is created		
 		var quizChallenge = [
 			['Who owns mavins records', 'Don jazzy'],
@@ -37,7 +31,3 @@
 		}
 		print ('<p> ' + "you got " + correctAnswer + ' correctly ' + '</p>');	
 			
-	
-		</script>
-	</body>
-</html>

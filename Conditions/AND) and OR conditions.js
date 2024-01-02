@@ -1,18 +1,6 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>And / or conditions</h1>
+		//And / or conditions
 		
-		
-	
-		<script type = "text/javascript">
 		
 		//or "||" condition 
 		
@@ -46,11 +34,4 @@
 				document.write("login failed");
 			
 			}
-			
-		</script>
 	
-	
-	
-	</body>
-
-</html>

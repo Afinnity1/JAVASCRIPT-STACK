@@ -1,20 +1,8 @@
-<html>
-
-	<head>
-	
-		<title>My javascript</title>
-		
-	
-			
-	</head>
-	
-	<body>
-	
-		<h2>Javascript Object: mixing arrays and objects</h2>
+	//Javascript Object: mixing arrays and objects<
 	
 				
 	
-		<script type = "text/javascript">
+		
 	//from the array two dimensional quiz we did before, we can write the codes easier using objects as shown below.
 		var quizChallenge = [
 			{
@@ -58,11 +46,4 @@
 			{ question: 'who sang jolie', answer: 'khaid' },
 			{ question: 'Who sang certified lover boy', answer: 'Drake' }
 		];
-			
-		</script>
 	
-	
-	
-	</body>
-
-</html>

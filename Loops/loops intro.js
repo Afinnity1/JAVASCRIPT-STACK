@@ -1,18 +1,6 @@
-<html>
-
-	<head>
-	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h1>Loops</h1>
+		//Loops
 		
 		
-	
-		<script type = "text/javascript">
 			
 			function RandomNumber(upper) {
 			
@@ -41,11 +29,3 @@
 				
 	  programming loops let you run a set of code as much as you want with just one line of code.
 	*/
-	
-		</script>
-	
-	
-	
-	</body>
-
-</html>

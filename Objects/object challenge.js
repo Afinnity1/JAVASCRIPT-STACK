@@ -1,20 +1,9 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-		
-	
-			
-	</head>
-	
-	<body>
-	
-		<h2>Javascript Object</h2>
+		//Javascript Object
 	
 				
 	
-		<script type = "text/javascript">
+	
 	
 			var students = [
 				{
@@ -58,11 +47,4 @@
 				message += "<p> Points: " + student.points + "</p>";
 			}
 			print(message);
-			
-		</script>
 	
-	
-	
-	</body>
-
-</html>

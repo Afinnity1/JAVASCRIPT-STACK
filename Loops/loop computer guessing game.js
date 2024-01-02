@@ -1,18 +1,8 @@
-<html>
-
-	<head>
 	
-		<title>My javascript</title>
-	
-	</head>
-	
-	<body>
-	
-		<h2>Loops: making the computer guess a random number and the number of attempts it took</h2>
+		//Loops: making the computer guess a random number and the number of attempts it took
 		
 	
 	
-		<script type = "text/javascript">
 		
 		//var containing the number we want the random number to fall under.
 			var upper = 10000;
@@ -41,13 +31,3 @@
 		//the output.	
 			document.write("<p> " + " The random number was: " + randomNumber + "</p>");
 			document.write("<p> " + "it took the computers " + computersAttempt  + " attempts to get it right " + "</p>" );
-			
-			
-		
-		</script>
-	
-	
-	
-	</body>
-
-</html>

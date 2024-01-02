@@ -1,20 +1,8 @@
-<html>
 
-	<head>
-	
-		<title>My javascript</title>
-		
-	
-			
-	</head>
-	
-	<body>
-	
-		<h2>Javascript Object: Student records search challenge</h2>
+		//Javascript Object: Student records search challenge
 	
 				
 	
-		<script type = "text/javascript">
 	//Firstly we inputed our objects in the array
 			var students = [
 				{
@@ -77,13 +65,4 @@
 					print("<p> " + " sorry this student is not available here " + " </p>");
 				}
 			
-			
-			
-			
-		</script>
 	
-	
-	
-	</body>
-
-</html>
